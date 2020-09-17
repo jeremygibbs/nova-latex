@@ -1,0 +1,8 @@
+{
+    "identifier": "jeremygibbs.LaTeX",
+    "name": "LaTeX",
+    "organization": "Jeremy Gibbs",
+    "description": "Syntax highlight and completion for LaTeX files.",
+    "version": "1.0",
+    "categories": ["languages"]
+}
